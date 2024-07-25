@@ -2,7 +2,7 @@
 using System.IO.Pipes;
 using System.Text;
 
-class Program
+class Interface
 {
     static void Main()
     {
